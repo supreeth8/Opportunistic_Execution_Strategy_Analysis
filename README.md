@@ -48,4 +48,4 @@ behavior and the trader’s risk appetite, which is often dictated by Regulatory
 The Standard Deviation of a “window” of ticks is calculated to capture market behavior. It is chosen to be the past 100 ticks. This window can be modified at the trader’s discretion.
 
 ## Result
-Refer [here]()
+Refer [here](https://github.com/supreeth8/Opportunistic_Market_making/blob/master/Report.pdf)
